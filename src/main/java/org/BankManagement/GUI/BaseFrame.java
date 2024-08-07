@@ -1,5 +1,10 @@
 package org.BankManagement.GUI;
 
+/* Base frame which will be the sample for all main pages like login
+* page, employee, admin and user pages which allow different
+* features for each other.
+* */
+
 import javax.swing.*;
 
 public abstract class BaseFrame extends JFrame {
